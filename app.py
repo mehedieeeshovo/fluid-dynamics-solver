@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="CFD Fluid Solver", layout="wide")
-st.title("🌊 2D Navier-Stokes Fluid Simulator")
+st.title(" 2D Navier-Stokes Fluid Simulator")
 st.sidebar.header("Simulation Settings")
 
 # --- INPUTS ---
